@@ -1,0 +1,101 @@
+age,experience_years,education,job_title,income,region,employment_status,enumerator_id
+41,8,High School,Driver,4828,جدة,Full-time,EN-009
+18,0,High School,Driver,43031,الرياض,عاطل,EN-009
+40,7,PhD,Senior Researcher,43231,الرياض,Part-time,EN-003
+30,2,Bachelor,Accountant,19029,تبوك,Full-time,EN-002
+35,1,PhD,مدير عام,1600,تبوك,Self-employed,EN-002
+55,23,PhD,Scientist,29558,مكة,Full-time,EN-005
+46,3,Diploma,Clerk,7277,أبها,Full-time,EN-003
+20,21,Bachelor,Marketing Specialist,10339,الدمام,Full-time,EN-009
+32,14,Master,Project Manager,32103,الرياض,عاطل,EN-004
+32,1,Master,Project Manager,33585,أبها,Self-employed,EN-004
+52,29,Master,Project Manager,23679,المدينة,Full-time,EN-010
+39,11,PhD,Scientist,34065,جدة,Full-time,EN-001
+39,5,Diploma,Clerk,9885,تبوك,Full-time,EN-010
+35,17,PhD,Professor,32507,المدينة,Full-time,EN-006
+33,0,Diploma,Nurse,71874,جدة,عاطل,EN-005
+23,2,Diploma,Assistant,9418,الرياض,Self-employed,EN-010
+47,54,High School,Security Guard,4961,جدة,Full-time,EN-002
+51,8,PhD,Scientist,56148,الدمام,Self-employed,EN-005
+40,6,PhD,Scientist,45428,أبها,Full-time,EN-008
+27,3,Master,Project Manager,17098,مكة,Full-time,EN-010
+25,35,High School,Cashier,5706,مكة,Full-time,EN-005
+31,11,PhD,Senior Researcher,40925,تبوك,Part-time,EN-004
+17,16,PhD,Professor,67161,الرياض,Self-employed,EN-002
+22,4,PhD,Senior Researcher,37025,مكة,Full-time,EN-002
+30,0,PhD,Professor,31112,مكة,Self-employed,EN-003
+30,6,Master,Senior Engineer,20394,تبوك,Full-time,EN-005
+33,13,Master,Researcher,20072,مكة,Full-time,EN-001
+28,5,PhD,Professor,28286,الدمام,Full-time,EN-001
+45,5,High School,Cashier,7874,مكة,Full-time,EN-007
+37,19,High School,Professor,10073,أبها,Full-time,EN-005
+40,20,Diploma,Nurse,60034,جدة,عاطل,EN-001
+30,1,PhD,Scientist,58153,أبها,Full-time,EN-002
+31,2,Bachelor,Designer,17912,الرياض,Full-time,EN-009
+18,14,PhD,Professor,99638,جدة,Full-time,EN-009
+40,20,Diploma,مدير عام,1867,الرياض,Full-time,EN-002
+18,0,High School,Driver,5145,حائل,Full-time,EN-009
+27,1,PhD,Professor,34768,أبها,Full-time,EN-010
+28,0,Master,Consultant,26948,الرياض,Self-employed,EN-006
+15,8,High School,Clerk,4266,مكة,Self-employed,EN-003
+23,5,High School,Security Guard,6372,مكة,Part-time,EN-005
+19,13,PhD,Doctor,61550,حائل,Full-time,EN-006
+34,8,Master,Senior Engineer,24146,تبوك,Full-time,EN-009
+46,47,High School,Driver,7756,المدينة,Self-employed,EN-001
+45,25,Bachelor,Teacher,22299,جدة,Full-time,EN-007
+27,0,Diploma,Clerk,5013,مكة,Full-time,EN-006
+41,10,Bachelor,Marketing Specialist,12083,المدينة,Part-time,EN-009
+34,9,Bachelor,Analyst,70338,تبوك,عاطل,EN-003
+41,0,Master,Consultant,24401,أبها,Full-time,EN-008
+35,15,Diploma,Assistant,10397,أبها,Full-time,EN-002
+40,9,Diploma,Assistant,11607,الرياض,Full-time,EN-001
+54,4,PhD,Senior Researcher,62399,مكة,عاطل,EN-007
+17,24,High School,Cashier,6482,حائل,Full-time,EN-001
+28,35,Master,Consultant,39748,تبوك,Self-employed,EN-009
+38,8,Master,Project Manager,35894,حائل,Full-time,EN-004
+29,31,Bachelor,Teacher,18476,جدة,Self-employed,EN-003
+17,13,PhD,Professor,85524,حائل,Full-time,EN-007
+57,1,PhD,Senior Researcher,56259,أبها,Full-time,EN-005
+41,23,Master,Project Manager,30998,تبوك,Full-time,EN-008
+47,5,Master,مدير عام,2155,الرياض,Self-employed,EN-007
+38,13,High School,Driver,6782,المدينة,Full-time,EN-007
+32,12,Bachelor,Designer,35367,تبوك,عاطل,EN-005
+28,5,PhD,Scientist,29496,الرياض,Part-time,EN-001
+45,0,Diploma,Assistant,6954,جدة,Full-time,EN-010
+46,8,Master,Consultant,20498,جدة,Full-time,EN-003
+36,0,High School,Security Guard,7716,تبوك,Full-time,EN-007
+21,1,Diploma,Technician,10711,جدة,Part-time,EN-010
+39,13,Bachelor,Marketing Specialist,20142,أبها,Full-time,EN-001
+27,6,Master,Consultant,35826,حائل,Self-employed,EN-003
+57,17,PhD,Senior Researcher,55465,المدينة,Full-time,EN-006
+26,7,High School,Driver,6806,تبوك,Full-time,EN-006
+34,6,Diploma,مدير عام,2802,المدينة,Full-time,EN-010
+57,60,PhD,Professor,40817,حائل,Part-time,EN-009
+38,0,Master,Senior Engineer,24641,مكة,Full-time,EN-005
+37,17,Bachelor,Analyst,19264,أبها,Full-time,EN-006
+31,4,Bachelor,Accountant,11953,أبها,Part-time,EN-002
+25,3,Diploma,Clerk,7265,المدينة,Part-time,EN-002
+29,5,Bachelor,Accountant,17904,الدمام,Full-time,EN-005
+36,43,PhD,Senior Researcher,31723,المدينة,Self-employed,EN-008
+49,3,Diploma,Nurse,8913,جدة,Full-time,EN-007
+47,21,PhD,Professor,34943,المدينة,Full-time,EN-002
+35,13,High School,Worker,7883,مكة,Part-time,EN-009
+49,27,Bachelor,Teacher,70993,جدة,عاطل,EN-004
+20,19,PhD,Professor,79087,الرياض,Full-time,EN-007
+44,14,Bachelor,CEO,2115,مكة,Self-employed,EN-007
+20,4,Bachelor,Software Developer,9954,المدينة,Full-time,EN-010
+36,3,Bachelor,Designer,17964,المدينة,Full-time,EN-009
+26,0,Master,Researcher,39069,المدينة,Full-time,EN-001
+20,14,PhD,Doctor,98360,الدمام,Part-time,EN-008
+26,7,Master,Consultant,28380,جدة,Full-time,EN-003
+17,16,PhD,Doctor,95559,المدينة,Full-time,EN-006
+24,4,High School,Security Guard,7083,الرياض,Full-time,EN-004
+17,15,Bachelor,Software Developer,8945,مكة,Self-employed,EN-003
+40,2,PhD,Scientist,32435,جدة,Full-time,EN-003
+38,8,Bachelor,Designer,23810,مكة,Self-employed,EN-008
+30,9,Master,Project Manager,17287,تبوك,Full-time,EN-006
+35,0,PhD,Director,44566,حائل,Part-time,EN-003
+35,10,Master,Researcher,29920,مكة,Self-employed,EN-004
+46,24,Diploma,Clerk,5357,حائل,Full-time,EN-007
+20,11,PhD,Professor,61005,أبها,Self-employed,EN-002
+51,9,Master,Senior Engineer,30384,المدينة,Part-time,EN-006
